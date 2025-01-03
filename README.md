@@ -43,6 +43,3 @@ This project to practice front-end development while creating something meaningf
 3. Save Tasbeeh counts using LocalStorage or a database.
 4. Add multilingual support (e.g., Arabic and English).
 5. Provide a customizable list of adhkar and duas.
-
-
-هل تريدين 
