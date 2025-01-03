@@ -1,11 +1,11 @@
 # Jumu'ah light.
 A website for everything a Muslim needs on Friday, including Sunnahs, Surah Al-Kahf, an electronic Tasbeeh, and a collection of Duas.
 Table of Contents
-1. Overview
-2. Features
-3. Technologies Used
-4. Installation and Usage
-5. Future Enhancements
+1. [Overview](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#overview)
+2. [Features](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#features)
+3. [Technologies Used](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#technologies-used)
+4. [Installation and Usage](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#installation-and-usage)
+5. [Future Enhancements](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#future-enhancements)
 
 ## Overview
 "Muslim's Friday Companion" is a simple and interactive website designed to assist Muslims in observing and practicing the Sunnahs of Friday. It provides:
