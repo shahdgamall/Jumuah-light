@@ -34,12 +34,13 @@ This project to practice front-end development while creating something meaningf
 ```
  git clone https://github.com/your-username/Jumu'ah-light.git
 ```
-3. Navigate to the project folder:
+2. Navigate to the project folder:
 ```
 cd Jumu'ah-light
 ```
-5. Open index.html in your browser or use a live server for best results.
-6. Alternatively, view the live version here: [Live Demo](https://lively-granita-b560bd.netlify.app/).
+3. Open index.html in your browser or use a live server for best results.
+
+ Alternatively, view the live version here: [Live Demo](https://lively-granita-b560bd.netlify.app/).
    
 ## Future Enhancements
 1. Add audio playback for Surah Al-Kahf.
