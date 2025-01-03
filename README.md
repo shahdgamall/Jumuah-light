@@ -1,6 +1,6 @@
 # Jumu'ah light.
 A website for everything a Muslim needs on Friday, including Sunnahs, Surah Al-Kahf, an electronic Tasbeeh, and a collection of Duas.
-Table of Contents
+Table of Contents:
 1. [Overview](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#overview)
 2. [Features](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#features)
 3. [Technologies Used](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#technologies-used)
@@ -31,11 +31,11 @@ This project to practice front-end development while creating something meaningf
 
 ## Installation and Usage
 1. Clone this repository:
- 'git clone https://github.com/your-username/Jumu'ah-light.git'
-2. Navigate to the project folder:
-  'cd Jumu'ah-light'
-3. Open index.html in your browser or use a live server for best results.
-4. Alternatively, view the live version here: [Live Demo](https://lively-granita-b560bd.netlify.app/).
+'git clone https://github.com/your-username/Jumu'ah-light.git'
+3. Navigate to the project folder:
+'cd Jumu'ah-light'
+4. Open index.html in your browser or use a live server for best results.
+5. Alternatively, view the live version here: [Live Demo](https://lively-granita-b560bd.netlify.app/).
    
 ## Future Enhancements
 1. Add audio playback for Surah Al-Kahf.
