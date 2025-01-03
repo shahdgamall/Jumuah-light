@@ -32,11 +32,11 @@ This project to practice front-end development while creating something meaningf
 ## Installation and Usage
 1. Clone this repository:
 ```
- git clone https://github.com/your-username/Jumu'ah-light.git
+ git clone https://github.com/your-username/Jumuah-light.git
 ```
 2. Navigate to the project folder:
 ```
-cd Jumu'ah-light
+cd Jumuah-light
 ```
 3. Open index.html in your browser or use a live server for best results.
 
