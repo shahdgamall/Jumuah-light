@@ -1,3 +1,5 @@
+/*@import url("AmiriQuran.ttf");*/
+
 body {
     margin: 0;
     padding: 0;
@@ -5,7 +7,7 @@ body {
     background-color: #f9f5f0;
     color: #333;
     text-align: center;
-    line-height: 1.65;
+    direction: rtl;
 }
 
 header {
@@ -17,14 +19,16 @@ header {
 }
 
 .quran-container {
-    margin: 30px auto;
-    max-width: 600px;
+    margin: 40px auto;
+    max-width: 700px;
     background: #fff;
     padding: 30px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 15px;
     font-size: 2em;
     text-align: justify;
+    letter-spacing: 0.03em;
+    line-height: 1.8;
 }
 
 footer {
@@ -51,9 +55,7 @@ footer {
 
 }
 
-img p {
-
-    border-radius: 0%;
-    max-width: 50%;
-
+@font-face {
+    font-family: 'Amiri';
+    src: url('Amiri-Regular.ttf') format('truetype');
 }
