@@ -1,20 +1,6 @@
 @font-face {
-  font-family: "amiri";
-  src: url("AmiriQuranColored.ttf") format(truetype);
-}
-
-@font-face {
-  font-family: "amiri2";
-  src: url("AmiriQuran.ttf") format(truetype);
-}
-@font-face {
   font-family: "amiri3";
   src: url("Amiri-Regular.ttf") format(truetype);
-}
-
-@font-face {
-  font-family: "dahab";
-  src: url("DahabArabicITF-Bold.otf");
 }
 
 @font-face {
