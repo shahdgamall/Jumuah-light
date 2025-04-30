@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: "Uthmani";
-  src: url("UthmanTNB_v2-0.ttf") format("truetype");
+  src: url("/font/UthmanTNB_v2-0.ttf") format("truetype");
 }
 body {
   margin: 0;
@@ -37,7 +37,7 @@ header {
   direction: rtl;
   line-height: 2.4;
 
-  font-family: 'Uthmani';
+  font-family: "Uthmani";
 }
 .surah {
   word-wrap: break-word;
