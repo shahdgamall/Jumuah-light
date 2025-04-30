@@ -1,61 +1,82 @@
-/*@import url("AmiriQuran.ttf");*/
-
-body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Amiri', serif;
-    background-color: #f9f5f0;
-    color: #333;
-    text-align: center;
-    direction: rtl;
-}
-
-header {
-    background-color: #005f73;
-    color: #fff;
-    padding: 20px;
-    font-size: 2.3em;
-    text-align: center;
-}
-
-.quran-container {
-    margin: 40px auto;
-    max-width: 700px;
-    background: #fff;
-    padding: 30px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 15px;
-    font-size: 2em;
-    text-align: justify;
-    letter-spacing: 0.03em;
-    line-height: 1.8;
-}
-
-footer {
-    background-color: #005f73;
-    color: #fff;
-    padding: 10px;
-    font-size: 1em;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
-.quran-container::before {
-    content: '';
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: linear-gradient(to top, rgba(1, 10, 0, 3), rgba(1, 195, 179, 0)), url('pattern.png');
-    background-size: cover;
-    opacity: 0.3;
-    z-index: -10;
-
+@font-face {
+  font-family: "amiri";
+  src: url("AmiriQuranColored.ttf") format(truetype);
 }
 
 @font-face {
-    font-family: 'Amiri';
-    src: url('Amiri-Regular.ttf') format('truetype');
+  font-family: "amiri2";
+  src: url("AmiriQuran.ttf") format(truetype);
+}
+@font-face {
+  font-family: "amiri3";
+  src: url("Amiri-Regular.ttf") format(truetype);
+}
+
+@font-face {
+  font-family: "dahab";
+  src: url("DahabArabicITF-Bold.otf");
+}
+
+@font-face {
+  font-family: "Uthmani";
+  src: url("UthmanTNB_v2-0.ttf") format("truetype");
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "amiri3", serif;
+  background-color: #f9f5f0;
+  color: #333;
+  text-align: center;
+  direction: rtl;
+}
+
+header {
+  background-color: #005f73;
+  color: #fff;
+  padding: 20px;
+  font-size: 2.3em;
+  text-align: center;
+}
+
+.quran-container {
+  margin: 40px auto;
+  max-width: 700px;
+  background: #fff;
+  padding: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+  font-size: 1.8rem;
+  text-align: justify;
+  direction: rtl;
+  line-height: 2.4;
+
+  font-family: 'Uthmani';
+}
+.surah {
+  word-wrap: break-word;
+}
+
+footer {
+  background-color: #005f73;
+  color: #fff;
+  padding: 10px;
+  font-size: 1em;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.quran-container::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to top, rgba(1, 10, 0, 3), rgba(1, 195, 179, 0)),
+    url("/img/pattern.png");
+  background-size: cover;
+  opacity: 0.3;
+  z-index: -10;
 }

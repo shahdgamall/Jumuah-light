@@ -1,0 +1,15 @@
+{
+  "name": "jumuah-light",
+  "version": "1.0.0",
+  "description": "A website for everything a Muslim needs on Friday, including Sunnahs, Surah Al-Kahf, an electronic Tasbeeh, and a collection of Duas.\r Table of Contents:\r 1. [Overview](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#overview)\r 2. [Features](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#features)\r 3. [Technologies Used](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#technologies-used)\r 4. [Installation and Usage](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#installation-and-usage)\r 5. [Future Enhancements](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#future-enhancements)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
