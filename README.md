@@ -8,13 +8,13 @@ Table of Contents:
 5. [Future Enhancements](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#future-enhancements)
 
 ## Overview
-"Muslim's Friday Companion" is a simple and interactive website designed to assist Muslims in observing and practicing the Sunnahs of Friday. It provides:
+"Jumu'ah light" is a simple and interactive website designed to assist Muslims in observing and practicing the Sunnahs of Friday. It provides:
 The full text of Surah Al-Kahf.
 A section for Friday Sunnahs.
 An electronic Tasbeeh for counting Salawat and other adhkar.
 A curated list of Duas suitable for Friday.
 
-This project to practice front-end development while creating something meaningful for the Muslim.
+This project is to practice front-end development while creating something meaningful for Muslims.
 
 ## Features
 1. Sunnahs of Friday: A list of recommended acts to perform on Friday.
@@ -26,8 +26,8 @@ This project to practice front-end development while creating something meaningf
 ## Technologies Used
 1. HTML: Structure of the website.
 2. CSS: Styling and layout.
-3. JavaScript: Interactive features like Tasbeeh and random Dua generator.
-4. GitHub Pages: Hosting the project online.
+3. JavaScript: Interactive features like Tasbeeh and a random Dua generator.
+4. Vercel: Hosting the project online.
 
 ## Installation and Usage
 1. Clone this repository:
@@ -40,7 +40,7 @@ cd Jumuah-light
 ```
 3. Open index.html in your browser or use a live server for best results.
 
- Alternatively, view the live version here: [Live Demo](https://lively-granita-b560bd.netlify.app/).
+ Alternatively, you can view the live version here: [Live Demo](https://jumuah-light.vercel.app/).
    
 ## Future Enhancements
 1. Add audio playback for Surah Al-Kahf.
