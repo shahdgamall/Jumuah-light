@@ -8,7 +8,7 @@ Table of Contents:
 5. [Future Enhancements](https://github.com/ShAhD-GaMaLL/Jumu-ah-light?tab=readme-ov-file#future-enhancements)
 
 ## Overview
-"Jumu'ah light" is a simple and interactive website designed to assist Muslims in observing and practicing the Sunnahs of Friday. It provides:
+**Jumu'ah light** is a simple and interactive website designed to assist Muslims in observing and practicing the Sunnahs of Friday. It provides:
 The full text of Surah Al-Kahf.
 A section for Friday Sunnahs.
 An electronic Tasbeeh for counting Salawat and other adhkar.
